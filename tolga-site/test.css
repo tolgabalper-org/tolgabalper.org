@@ -1,0 +1,21 @@
+body {
+    background-image: url(https://blogger.googleusercontent.com/img/a/AVvXsEgOZCSJiV1X-BONtgRf8aJBT_U5w4GDAbjAMUfqS-of_QRZW2GUttzUg-JQQx51hmxBnnYS4hKk4nfyoJ-bdUVNVGBS3IhbVrhmkmzFMS66z3hMfF1Qgq6CGhm1kyFWhTBIw3F31SkZjKPccsAzPKgLzq9bFhayf6WXjyvyJm--nFM_5-bAv2VOKddS=w945-h600-p-k-no-nu);
+    background-size: contain; /* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
+    background-repeat: no-repeat ;
+    width: 100vw; /* vw view width */
+    height: 50vh;
+}
+h1{
+    color: rgb(21, 255, 0);
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-left-style: solid;
+    border-left-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-right-style: solid;
+    border-right-width: 2px;
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-left: 500px;
+}
