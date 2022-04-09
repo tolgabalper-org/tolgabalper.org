@@ -25,6 +25,4 @@ SOFTWARE.
 
 Discord : Tolgabalper#8471
 
-Discord Server : https://discord.gg/S5tDkPzeZg
-
 E-Mail : Dev@tolgabalper.org
